@@ -1,6 +1,4 @@
-# todo_fancy_api
-Todo Fancy API
-
+# Todo Fancy API
 
 ## SERVERSIDE (BACKEND)
 
